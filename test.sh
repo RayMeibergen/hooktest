@@ -1,2 +1,2 @@
 #!/bin/bash
-date >> /tmp/aab
+date >> /tmp/aaba
